@@ -1,0 +1,21 @@
+Menu of Combined Menu at Combined Address: 
+Drinks:
+1: Water from Non-alcoholic menu section, 100 ml for 10 RUB
+2: Tea from Non-alcoholic menu section, 350 ml for 100 RUB
+3: Lemonade from Non-alcoholic menu section, 100 ml for 150 RUB
+4: Cola from Non-alcoholic menu section, 100 ml for 100 RUB
+Foods:
+5: Toast with strawberry jam, 40 g., 150 RUB, (4 min)
+6: Bearger, 150 g., 400 RUB, (15 min)
+7: Hot Dog, 100 g., 150 RUB, (3 min)
+
+Ingredients for Drinks:
+Water: water
+Tea: water, sugar, lemon
+Lemonade: water, sugar, lemon acid
+Cola: Cola
+
+Ingredients for Foods:
+Toast with strawberry jam: bread, strawberry jam, butter
+Bearger: bun, bear meat, tomatoes, mustard
+Hot Dog: bun, sausage, mustard
